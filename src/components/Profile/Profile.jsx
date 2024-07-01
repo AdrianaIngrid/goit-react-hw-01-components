@@ -1,4 +1,4 @@
-import user from './Profile/user.json';
+import user from '../data/user.json';
 import propTypes from 'prop-types';
 import styles from './Profile.module.css';
 function Profile() {
